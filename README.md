@@ -23,7 +23,7 @@ A simple, responsive restaurant menu that lets users place orders via WhatsApp.
 
 - **Tech Stack**: HTML
 - **Features**: Menu layout, mobile responsiveness, WhatsApp order integration
-- [View Project Repo](#) | [Live Demo](https://leafy-donut-18c866.netlify.app)
+- [View Project Repo](https://github.com/TshepoKubeka/Restaurant-Menu) | [Live Demo](https://leafy-donut-18c866.netlify.app)
 
 ---
 
