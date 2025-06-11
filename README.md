@@ -32,7 +32,7 @@ An app that displays detailed stats and info about each Avenger, styled and laid
 
 - **Tech Stack**: HTML, CSS
 - **Features**: Grid layout, character cards, responsive design
-- [View Project Repo](https://github.com/TshepoKubeka/avengers-app) | [Live Demo](#)
+- [View Project Repo](https://github.com/TshepoKubeka/avengers-app) | [Live Demo](https://helpful-faun-941db5.netlify.app)
 
 ---
 
